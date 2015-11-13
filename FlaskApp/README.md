@@ -197,3 +197,9 @@ Configure the Uncomplicated Firewall (UFW) to only allow incoming connections fo
 ## References:
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 https://github.com/robertavram/Linux-Server-Configuration/blob/master/readme.md
+http://askubuntu.com/questions/168280/how-do-i-grant-sudo-privileges-to-an-existing-user
+http://www.liquidweb.com/kb/changing-the-ssh-port/
+https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers
+https://www.digitalocean.com/community/tutorials/installing-mod_wsgi-on-ubuntu-12-04
+https://www.digitalocean.com/community/tutorials/using-mod_wsgi-to-serve-applications-on-ubuntu-12-04
